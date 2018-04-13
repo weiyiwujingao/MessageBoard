@@ -10,5 +10,6 @@
 管理员页面  /admin
 
 数据库：news  导入文件news.sql
+nginx虚拟域名配置：见vhosts.conf
 
 表格两个  一个用户表（user） 一个内容表（message_content）
